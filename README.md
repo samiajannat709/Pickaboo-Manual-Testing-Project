@@ -3,7 +3,7 @@ Manual testing project performed on Pickaboo e-commerce website. Includes test p
 
 ---
 ## 🔗 Base URL
-https://restful-booker.herokuapp.com
+https://www.pickaboo.com
 
 ## 🎯 Testing Objectives
 
@@ -170,16 +170,20 @@ Manual-Testing-project/
 ```
 # 📸 Screenshots
 
-### UI-related issues
-  ![Newman Report](Report_generate_with_newman/images/report.png)
-### Validation errors
-  ![Newman Report](Report_generate_with_newman/images/report.png)
-### Functional defects
-  ![Newman Report](Report_generate_with_newman/images/report.png)
-### Navigation issues
-  ![Newman Report](Report_generate_with_newman/images/report.png)
-### Other identified problems
-  ![Newman Report](Report_generate_with_newman/images/report.png)
+### Bug Report
+  ![Newman Report](Manual-Testing-project/images/Bug-Report.png)
+### Mind Maps
+  ![Newman Report](Manual-Testing-project/images/Mind-Maps.png)
+### TestCase
+  ![Newman Report](Manual-Testing-project/images/TestCase.png)
+### Test Metrics
+  ![Newman Report](Manual-Testing-project/images/TestMetrics.png)
+### Test Plan
+  ![Newman Report](Manual-Testing-project/images/Test-Plan.png)
+### Test Scenarios
+  ![Newman Report](Manual-Testing-project/images/Test-Scenarios.png)
+### Test Summary Report
+  ![Newman Report](Manual-Testing-project/images/Test-Summary-Report.png)
 
 ---
 
