@@ -160,12 +160,15 @@ The following tools and technologies were used during this project:
 Manual-Testing-project/
 │
 ├── images/
-│   ├── collection.png        
-│   └── report.png            
+│   ├── Bug-Report.png
+│   ├── Mind-Maps.png
+│   ├── TestCase.png
+│   ├── TestMetrics.png
+│   ├── Test-Plan.png
+│   ├── Test-Scenarios.png 
+│   └── Test-Summary-Report.png        
 │
-├── API_Testing.postman_collection.json    
-├── API_Testing.postman_environment.json  
-├── newman_report.html                    
+├── Manual-Testing-Project.xlsx               
 └── README.md
 ```
 # 📸 Screenshots
